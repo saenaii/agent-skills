@@ -1,0 +1,11 @@
+# User specific
+.env
+*.key
+*.pem
+*.p12
+*.pass
+credentials/
+secrets/
+*.env.*
+!.env.example
+
