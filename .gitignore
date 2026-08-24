@@ -1,4 +1,5 @@
 # User specific
+.DS_Store
 .env
 *.key
 *.pem
@@ -8,4 +9,3 @@ credentials/
 secrets/
 *.env.*
 !.env.example
-
